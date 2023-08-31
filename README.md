@@ -1,10 +1,10 @@
-### Hi there 👋, My name is Ankith Kumaran
-#### I am currently an undergrad at SRM Institute of Science and Technology, Kattankulathur.
-My field of interest is machine learning and data science. I am currently learning Neural Networks and its applications.
+### Hey there!, I'm Ankith Rajendran!
+#### I am currently in grad school at the University of Southern California, majoring in Computer Science - Data Science.
+My fields of interest are Machine Learning, Data Science and its practical application.
 
 Skills: C/C++/Python/Matlab
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
